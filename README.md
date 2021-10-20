@@ -1,4 +1,4 @@
-<h1>Elegant list design</h1>
+<h1>Elegant List Design</h1>
 
 I coded this nice list design using html and css for one of my clients.
 
